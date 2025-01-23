@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Agniswar Banerjee</h1>
 <h3 align="center">A passionate Frontend Developer</h3>
-<img align="right" alt="Busy" width="300" src="![image](https://github.com/user-attachments/assets/491ba8b5-e551-4596-865a-3812fd5e5a99)
-">
+
+
 
 - 🔭 I’m currently working on **Eduplay**
 
